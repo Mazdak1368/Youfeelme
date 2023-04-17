@@ -10,7 +10,7 @@ body{
   height: 300px;
   top: 0;
   left: 0;
-  background-image:  url(images/money.png);
+  background-image:  url(money.png);
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
@@ -47,7 +47,7 @@ body{
 }
 
 .openbtn:hover {
-  background-image: url(images/money.png);
+  background-image: url(money.png);
 }
 
 
@@ -110,7 +110,7 @@ input[type=submit] {
 
 input[type=submit]:hover {
   
-  background-image: url(images/money.png);
+  background-image: url(money.png);
 }
 
 /* Two-column layout */
